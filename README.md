@@ -1,1 +1,1 @@
-# Client-server-agar.io
+# Клиент-серверное приложение agar.io
